@@ -1,0 +1,1 @@
+This is a new testing doc for the Git commands
