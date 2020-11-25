@@ -1,1 +1,3 @@
 This is a new testing doc for the Git commands
+
+This is edit #1
